@@ -1,5 +1,6 @@
 # 100-Days-Of-ML-Code 
-100 Days of Machine Learning Coding as follow by [Avik-Jain](https://github.com/Avik-Jain)
+- 100 Days of Machine Learning Coding as follow by [Avik-Jain](https://github.com/Avik-Jain)
+- Run python notebook in [Google Colab](https://colab.research.google.com)
 
 **Get the datasets from [here](https://github.com/hhngan/ML/tree/master/100Day/Data)
 
