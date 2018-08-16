@@ -20,8 +20,8 @@ Check out the code from [here](https://github.com/hhngan/ML/blob/master/100Day/C
 </p>
 
 ------
-## Multiple Linear Regression | Day 3
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
+## Day 3 - Multiple Linear Regression
+Check out the code from [here](https://github.com/hhngan/ML/blob/master/100Day/Code/Day3_MultipleLinearRegression.ipynb)
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg">
