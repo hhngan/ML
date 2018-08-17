@@ -12,7 +12,7 @@ Check out the code from [here](https://github.com/hhngan/ML/blob/master/100Day/C
 </p>
 
 ------
-## Day 2 - Simple Linear Regression
+## Day 2 | Simple Linear Regression
 Check out the code from [here](https://github.com/hhngan/ML/blob/master/100Day/Code/Day2_SimpleLinearRegression.ipynb)
 
 <p align="center">
@@ -20,7 +20,7 @@ Check out the code from [here](https://github.com/hhngan/ML/blob/master/100Day/C
 </p>
 
 ------
-## Day 3 - Multiple Linear Regression
+## Day 3 | Multiple Linear Regression
 Check out the code from [here](https://github.com/hhngan/ML/blob/master/100Day/Code/Day3_MultipleLinearRegression.ipynb)
 
 <p align="center">
@@ -28,21 +28,11 @@ Check out the code from [here](https://github.com/hhngan/ML/blob/master/100Day/C
 </p>
 
 ------
-## Logistic Regression | Day 4
-
+## Day 4 | Logistic Regression
+Check out the code from [here](https://github.com/hhngan/ML/blob/master/100Day/Code/Day4_LogisticRegression.ipynb)
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg">
 </p>
-
-------
-## Logistic Regression | Day 5
-Moving forward into #100DaysOfMLCode today I dived into the deeper depth of what actually Logistic Regression is and what is the math involved behind it. Learned how cost function is calculated and then how to apply gradient descent algorithm to cost function to minimize the error in prediction.  
-Due to less time I will now be posting a infographic on alternate days.
-Also if someone wants to help me out in documentaion of code and has already some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
-
-------
-## Implementing Logistic Regression | Day 6
-Check out the Code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
 
 ------
 ## K Nearest Neighbours | Day 7
