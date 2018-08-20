@@ -35,7 +35,8 @@ Check out the code from [here](https://github.com/hhngan/ML/blob/master/100Day/C
 </p>
 
 ------
-## K Nearest Neighbours | Day 7
+## Day 5 | K Nearest Neighbours
+Check out the code [here](https://github.com/hhngan/ML/blob/master/100Day/Code/Day5_KNN.ipynb)
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg">
 </p>
