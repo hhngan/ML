@@ -11,4 +11,4 @@ In this machine learning tutorial:
 # 2. Training,
   Performace Metrics, Cross Validation, Model Selection, Hyperparameter Optimization, Project Reflection, Tools
 # 3. Evaluation
-
+  Performance Metrics, Commentary
